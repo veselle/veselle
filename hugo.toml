@@ -83,6 +83,14 @@ weight = 10
   [menus.social.params]
   icon = "tree"
 
+[[menus.social]]
+name = "RSS Feed"
+url = "/index.xml"
+weight = 20
+
+  [menus.social.params]
+  icon = "rss"
+
 [params.post]
 showRelated = true
 relatedPostsCount = 3
