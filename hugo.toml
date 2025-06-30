@@ -76,36 +76,12 @@ description = "Welcome to my digital home. This is my personal site."
 avatar = "/avatar.jpg"
 
 [[menus.social]]
-name = "GitHub"
-url = "https://github.com/vrnavi"
+name = "Tree"
+url = "https://tree.wintervale.me"
 weight = 10
 
   [menus.social.params]
-  icon = "github"
-
-[[menus.social]]
-name = "Bluesky"
-url = "https://bsky.app/profile/wintervale.me"
-weight = 20
-
-  [menus.social.params]
-  icon = "bluesky"
-
-[[menus.social]]
-name = "Email"
-url = "mailto:mailbox@wintervale.me"
-weight = 30
-
-  [menus.social.params]
-  icon = "email"
-
-[[menus.social]]
-name = "RSS Feed"
-url = "/index.xml"
-weight = 40
-
-  [menus.social.params]
-  icon = "rss"
+  icon = "tree"
 
 [params.post]
 showRelated = true
