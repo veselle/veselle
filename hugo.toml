@@ -1,0 +1,125 @@
+baseURL = "https://wintervale.me"
+languageCode = "en-US"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+title = "Wintervale, ME"
+theme = "hugo-narrow"
+hasCJKLanguage = false
+enableEmoji = true
+timeZone = "America/New_York"
+
+[permalinks]
+# posts = "/posts/:slug/"
+# pages = "/:slug/"
+
+[pagination]
+pagerSize = 6
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+[[menus.main]]
+name = "Who?"
+pageRef = "/who"
+weight = 10
+
+[[menus.main]]
+name = "What?"
+pageRef = "/what"
+weight = 20
+
+[[menus.main]]
+name = "When?"
+pageRef = "/when"
+weight = 30
+  
+[[menus.main]]
+name = "Where?"
+pageRef = "/where"
+weight = 40
+
+[[menus.main]]
+name = "Why?"
+pageRef = "/why"
+weight = 50
+
+[[menus.main]]
+name = "How?"
+pageRef = "/how"
+weight = 60
+
+[params]
+description = "Welcome to my digital home. This is my personal site."
+# keywords = [ "keyword1", "keyword2" ]
+defaultAuthor = "renavi"
+language = "en-US"
+shortName = "Wintervale"
+# images = [ "/images/og-default.avif" ]
+showThemeSwitch = false
+showDarkModeSwitch = false
+showLanguageSwitch = false
+stickyHeader = false
+colorScheme = "slate"
+
+[params.logo]
+  image = "/snowflake.png"
+  link = "/"
+
+[params.favicon]
+  svg = "/favicon.ico"
+
+[params.author]
+name = "Records of Ren"
+title = "At Wintervale Manor."
+description = "Welcome to my digital home. This is my personal site."
+avatar = "/avatar.jpg"
+
+[[menus.social]]
+name = "GitHub"
+url = "https://github.com/vrnavi"
+weight = 10
+
+  [menus.social.params]
+  icon = "github"
+
+[[menus.social]]
+name = "Bluesky"
+url = "https://bsky.app/profile/wintervale.me"
+weight = 20
+
+  [menus.social.params]
+  icon = "bluesky"
+
+[[menus.social]]
+name = "Email"
+url = "mailto:mailbox@wintervale.me"
+weight = 30
+
+  [menus.social.params]
+  icon = "email"
+
+[[menus.social]]
+name = "RSS Feed"
+url = "/index.xml"
+weight = 40
+
+  [menus.social.params]
+  icon = "rss"
+
+[params.post]
+showRelated = true
+relatedPostsCount = 3
+showLicense = false
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.highlight]
+codeFences = true
+guessSyntax = false
+lineNos = false
+lineNumbersInTable = false
+noClasses = false
+style = "github"
+tabWidth = 2
