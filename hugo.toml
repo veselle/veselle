@@ -60,7 +60,7 @@ showThemeSwitch = false
 showDarkModeSwitch = false
 showLanguageSwitch = false
 stickyHeader = false
-colorScheme = "slate"
+colorScheme = "default"
 
 [params.logo]
   image = "/snowflake.png"
@@ -70,10 +70,10 @@ colorScheme = "slate"
   svg = "/favicon.ico"
 
 [params.author]
-name = "Records of Ren"
-title = "At Wintervale Manor."
-description = "Welcome to my digital home. This is my personal site."
-avatar = "/avatar.jpg"
+name = "renavi's site."
+title = "Hosted at Wintervale Manor."
+description = "Hello, I am Ren. This is my personal site."
+avatar = "/avatar.png"
 
 [[menus.social]]
 name = "Tree"
