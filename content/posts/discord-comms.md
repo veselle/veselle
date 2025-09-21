@@ -1,5 +1,5 @@
 +++
-author = "Ren"
+author = "Vee"
 title = "Discord and Communication."
 date = "2023-05-30"
 description = "I remember... ...what do you mean this ALWAYS happens?!"
@@ -74,4 +74,4 @@ It just makes me sick that we're stuck with Discord.
 
 - [1] As a side note, during the early parts of the username fiasco, Discord's changelogs in their "What's New" page didn't even work until the update came out. That's depressing.
 
-*This post is part 3 of my Discord rant series. Part 1 is [here](https://ren.0ccu.lt/blog/discord-rant/).*
+*This post is part 3 of my Discord rant series. Part 1 is [here](https://wintervale.me/blog/discord-rant/).*

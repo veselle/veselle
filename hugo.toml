@@ -52,7 +52,7 @@ weight = 60
 [params]
 description = "Welcome to my digital home. This is my personal site."
 # keywords = [ "keyword1", "keyword2" ]
-defaultAuthor = "renavi"
+defaultAuthor = "veselle"
 language = "en-US"
 shortName = "Wintervale"
 # images = [ "/images/og-default.avif" ]
@@ -70,9 +70,9 @@ colorScheme = "default"
   svg = "/favicon.ico"
 
 [params.author]
-name = "renavi's site."
+name = "veselle's site."
 title = "Hosted at Wintervale Manor."
-description = "Hello, I am Ren. This is my personal site."
+description = "Hello, I am Vee. This is my personal site."
 avatar = "/avatar.png"
 
 [[menus.social]]

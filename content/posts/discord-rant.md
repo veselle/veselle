@@ -1,5 +1,5 @@
 +++
-author = "Ren"
+author = "Vee"
 title = "Discord."
 date = "2023-05-18"
 description = "Discord nags me so, so I write to the void about it."
