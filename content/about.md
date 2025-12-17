@@ -9,6 +9,7 @@ Hello. If you're seeing this, you're likely here from my Discord profile or some
 
 - I am "Vee", or "veselle".
 - I use she/her pronouns.
+- I am very noise sensitive.
 - I do not like social media.
 - I prefer to be left alone.
 - I may come off as cold at times.
