@@ -9,7 +9,7 @@ The restraint I'm going to have writing this post is going to kill me.
 
 <!--more-->
 
-This is the last in the series of Discord rants I'm putting on this blog, and is a direct continuation from the previous post. I want to move on. I want to be done. But unfortunately, things never end, whether I want them to or not. It's my mistake, I get into the wrong crowds and give so much of myself that I start passing IOUs. But now, this is going to eat at me for months, just like my initial mistakes have.
+This is the last in the series of Discord rants I'm putting on this blog, and is a direct continuation from the previous post. I want to move on. I want to be done. I want to never do this again. But unfortunately, things never end, whether I want them to or not, and I just keep getting dragged back into the same spot I was ten years ago. It's my mistake, I get into the wrong crowds and give so much of myself that I start passing IOUs. But now, this is going to eat at me for months, just like my initial mistakes have.
 
 PTSD is a nightmare. Is it PTSD or CPTSD? Therapist thinks it's the former, symptoms line up with the latter. What does it even matter, though? I live by "explanation not excuse" and yet some people will happily take neither and paint me with a brush laced with acid and napalm.
 
