@@ -29,4 +29,4 @@ And in the future, I really should not get tunnel-visioned. I missed the forest 
 
 But I'm still capable. Maybe I *can* do something about HDG's inherent unfairness towards "doms", if I ever finish the Unisyn, though...
 
-Until then, hopefully it's an era of self-improvement, actually, for real this time, maybe. But that's next year. For now, I'll just enjoy my [paranoid Christmas](https://www.youtube.com/watch?v=tbkBISkws64).
+Until then, hopefully it's an era of self-improvement, actually, for real this time, maybe. But that's next year. For now, I'll just enjoy my [paranoid Christmas](https://www.youtube.com/watch?v=tbkBISkws64) feeling 14 years old and helpless once again.
